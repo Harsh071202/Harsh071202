@@ -1,13 +1,9 @@
 # Hello, I am Harsh 👋
 
-## 📍 Location
-Pune, Maharashtra, India
-
-## ✉️ Email
-harshnagrale03@gmail.com
-
-## 🔗 GitHub
-[[github.com/harshnagrale](https://github.com/harshnagrale)](https://github.com/Harsh071202)
+📍 **Pune, Maharashtra, India**  
+📧 **Email:** harshnagrale03@gmail.com  
+🔗 **LinkedIn:** [[linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin) ](https://www.linkedin.com/in/harsh-nagrale-61ab4820a/) 
+💻 **GitHub:** [[harshnagrale](https://github.com/harshnagrale)](https://github.com/Harsh071202)
 
 ---
 
