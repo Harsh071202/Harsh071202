@@ -42,7 +42,7 @@ Created a predictive model to determine the likelihood of a student's placement 
 Government College of Engineering, Amravati  
 Graduated: 2024
 
-**Data Science & Machine Learning Certification**  
+**Post Graduate Program in Data Science and Analytics Certification**  
 Imarticus Learning – End-to-End training in Python, ML, Deep Learning, NLP, SQL, and project deployment
 
 ---
