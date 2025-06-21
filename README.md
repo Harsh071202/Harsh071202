@@ -31,12 +31,11 @@ Created a predictive model to determine the likelihood of a student's placement 
 ## 🧰 Tech Toolbox
 - **Languages:** Python, SQL, HTML/CSS
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
-- **Tools:** Jupyter Notebook, VS Code, Git, GitHub, Streamlit, MySQL, Excel
-- **Concepts:** Data Cleaning, EDA, Supervised & Unsupervised Learning, NLP, Model Evaluation
+- **Tools:** Jupyter Notebook, VS Code, Git, GitHub, Streamlit, MySQL, Excel , Adv Excel
+- **Concepts:** Data Cleaning, EDA, Supervised & Unsupervised Learning, NLP, Model Evaluation , Deep Learning , CNN , ANN , RNN
 
 ---
 
-## 🎓 Education
 ## 🎓 Education
 **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
 Government College of Engineering, Amravati  
